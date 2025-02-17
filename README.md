@@ -3,21 +3,18 @@
 
 <img align="right" alt="Coding" width="400" src="./developer-image.jpg">
 
-- 🔭 I’m currently working on [Generative AI(Summarisation, Agent Co-pilot)](Will update soon)
+- 🔭 I’m currently working on Generative AI(Summarisation, Agent Co-pilot, knowledge Kb's, NLU bots with LLM slots)
 
 - 🌱 I’m currently learning **Langgraph Multi AI Agentic Frameworks**
 
-- 👯 I’m looking to collaborate on [Generative AI projects using LangChain and LangGraph](Will Update soon)
+- 👯 I’m looking to collaborate on Generative AI projects using LangChain and LangGraph
 
-- 👨‍💻 All of my projects are available at [Will update soon](Will update soon)
-
-- 📝 I regularly write articles on [Will update soon](Will update soon)
+- 👨‍💻 All of my projects are available at my repository
 
 - 💬 Ask me about **LLM's, Generative AI, Prompt Engineering**
 
 - 📫 How to reach me **dineshpuranam90@gmail.com**
 
-- 📄 Know about my experiences [Will update soon](Will update soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
