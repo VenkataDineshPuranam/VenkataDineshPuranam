@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Dinesh Puranam</h1>
-<h3 align="center">Conversational AI & GenAI Engineer from India</h3>
-<p align="center"><strong>RAG · Enterprise AI · Python · Azure AI</strong><br>Forward Deployed Engineer — EY GDS Trained</p>
+<h3 align="center">AI Quality Engineering &amp; Governance Specialist</h3>
+<p align="center"><strong>LLM &amp; Agentic AI Evaluation · RAG Quality · Guardrails · Responsible AI</strong></p>
+<p align="center">9+ years across AI, NLP and data quality<br>Forward Deployed Engineer Program — Techademy Certified</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dineshpuranam/">LinkedIn</a> &nbsp;•&nbsp;
