@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Dinesh Puranam</h1>
 <h3 align="center">AI Quality Engineering &amp; Governance Specialist</h3>
 <p align="center"><strong>LLM &amp; Agentic AI Evaluation · RAG Quality · Guardrails · Responsible AI</strong></p>
-<p align="center">9+ years across AI, NLP and data quality<br>Forward Deployed Engineer Program — Techademy Certified</p>
+<p align="center">9+ years across AI, NLP and data quality<br>Forward Deployed Engineer Program — EY Trained Certified</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dineshpuranam/">LinkedIn</a> &nbsp;•&nbsp;
